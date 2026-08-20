@@ -77,3 +77,12 @@ cpack -C Release -G NSIS --config build/CPackConfig.cmake
 This uses the NSIS scripts in [packaging/](packaging/) to register `.md` file
 associations. To change the colours, edit [qml/Theme.qml](qml/Theme.qml) — it's
 the single source for both the dark and light palettes.
+
+# Screens
+<img width="1647" height="1048" alt="image" src="https://github.com/user-attachments/assets/46cf74ff-de1f-4825-940f-2729b2fa3c11" />
+<img width="1653" height="1052" alt="image" src="https://github.com/user-attachments/assets/b4c83ef3-a3b5-46b8-97ae-b601487a0def" />
+<img width="1648" height="1045" alt="image" src="https://github.com/user-attachments/assets/b2370ca6-2275-4a7e-998b-a34f1177316d" />
+<img width="1649" height="1045" alt="image" src="https://github.com/user-attachments/assets/f3dc177e-4ed3-4b11-964a-d71378bc5493" />
+
+
+
