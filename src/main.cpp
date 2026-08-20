@@ -14,8 +14,7 @@ int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
 
-    QGuiApplication::setOrganizationName(QStringLiteral("MDReader"));
-    QGuiApplication::setOrganizationDomain(QStringLiteral("mdreader.local"));
+    QGuiApplication::setOrganizationName(QStringLiteral("TopicDev"));
     QGuiApplication::setApplicationName(QStringLiteral("MDReader"));
     QGuiApplication::setApplicationVersion(QStringLiteral(MDREADER_VERSION));
 
